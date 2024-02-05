@@ -51,4 +51,3 @@ Certainly! Here's the README file with proper formatting:
 Make sure to replace `<minikube_ip>` and `<port>` with the actual values obtained.
 
 ---
-Feel free to adjust any sections or details as needed for your specific deployment process.
